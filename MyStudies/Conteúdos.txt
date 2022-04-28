@@ -1,0 +1,13 @@
+Conteúdos estudados durante o Bootcamp Carrefour Web Developer
+1) Pensamento Computacional (Computational Thinking)
+2) Lógica de Programação (Programming Logic)
+3) Introdução ao Git e ao GitHub (Introduction to Git and GitHub)
+4) Projetos Ágeis com SCRUM (Agile projects with SCRUM)
+5) HTML5 e CSS3
+6) JavaScript
+7) ReactJS
+8) JAVA/SpringBoot
+
+
+
+
